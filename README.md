@@ -1,2 +1,3 @@
-# Onur
-My repository
+Hello 
+
+I am currently learning software and algorithms.
